@@ -1,2 +1,2 @@
-# Zeis cooudé project for observatory Halley.
+# Zeis coudé project for observatory Halley.
 
