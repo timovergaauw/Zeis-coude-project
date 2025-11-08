@@ -1,4 +1,5 @@
 # Zeis coudé project for observatory Halley.
+# NOTE : the folder OnstepX-main is the Giga project the Onstepx-main zip file is the origin base files
 
 OnstepX based project for Zeis coudé.
 initial scope of project:
@@ -11,6 +12,3 @@ optional gps
 controlled maximum rotation per axis.
 uses the onestep user library for fixed position
 uses ascom to control Dome via Nina or Stellarium
-
-Version 1.0 is the first step to make a pinn map for the Arduino Giga R1
-version main is the main onstepx from where the project starts this to have a starting point and base file.
