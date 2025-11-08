@@ -11,3 +11,5 @@ optional gps
 controlled maximum rotation per axis.
 uses the onestep user library for fixed position
 uses ascom to control Dome via Nina or Stellarium
+
+Current version is the basic Onstep x  first step is to make a pinn map for the Arduino Giga R1
