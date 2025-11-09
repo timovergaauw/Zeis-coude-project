@@ -1,5 +1,5 @@
 # Zeis coudé project for observatory Halley.
-# NOTE : the folder OnstepX-main is the Giga project the Onstepx-main zip file is the origin base files
+# NOTE : the folder OnstepX-main is the Giga project the Onstepx-main zip file is the origin base files from OnstepX
 
 OnstepX based project for Zeis coudé.
 initial scope of project:
