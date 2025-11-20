@@ -1,0 +1,56 @@
+{
+  "packages": [
+    {
+      "platforms": [
+        {
+          "name": "Arduino Mbed OS Portenta Boards",
+          "architecture": "mbed_portenta",
+          "version": "%%VERSION%%",
+          "category": "Arduino",
+          "url": "http://downloads.arduino.cc/cores/staging/%%PORTENTA_FILENAME%%",
+          "archiveFileName": "%%PORTENTA_FILENAME%%",
+          "checksum": "SHA-256:%%PORTENTA_CHECKSUM%%",
+          "size": "%%PORTENTA_SIZE%%",
+          "help": {
+            "online": "https://github.com/arduino/ArduinoCore-mbed/issues"
+          },
+          "boards": [
+            {
+              "name": "Arduino Portenta H7"
+            },
+            {
+              "name": "Arduino Portenta X8"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "adb",
+              "version": "32.0.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "dfu-util",
+              "version": "0.10.0-arduino1"
+            },
+            {
+              "packager": "arduino",
+              "name": "imgtool",
+              "version": "1.8.0-arduino.2"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.11.0-arduino2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
